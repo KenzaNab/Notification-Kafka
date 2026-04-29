@@ -49,5 +49,3 @@ POST /api/notifications
 }
 ```
 
-## License
-MIT — Kenza Nabaghi
